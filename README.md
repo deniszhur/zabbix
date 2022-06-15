@@ -1,5 +1,5 @@
 # zabbix
-requiments:<br>
+requirements:<br>
   docker<br>
   docker-compose<br>
 <br>
